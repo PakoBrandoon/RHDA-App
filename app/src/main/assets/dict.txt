@@ -1,0 +1,7 @@
+background
+pedestrians
+stop
+incoming car
+pothole
+cyclists
+car ahead
